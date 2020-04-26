@@ -5,6 +5,8 @@ authors = ["Olexander Yermakov <mannavard1611@gmail.com>"]
 
 [dependencies]
 vst = "0.0.2"
+lerp = "0.2.0"
+
 
 [lib]
 crate-type = ["dylib"]
